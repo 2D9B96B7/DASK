@@ -1,3 +1,3 @@
-# DASK: Driving-Assisted Secret Key Establishment
+# Driving Data Repository
 
-Welcome to data repository of DASK. For details, please refer our [webpage](https://2d9b96b7.github.io/DASK/). 
+Welcome to driving data repository. For details, please refer our [webpage](https://2d9b96b7.github.io/DASK/). 
