@@ -107,49 +107,6 @@
         <span class="site-footer-owner"><a href="https://2d9b96b7.github.io/DASK/">Driving Data Repository</a> is maintained by 2D9B96B7.</span>
         <span class="site-footer-credits">Powered by <a href="https://pages.github.com">GitHub Pages</a> and <a href="https://github.com/jasonlong/cayman-theme">Cayman Theme</a>.</span>
       </footer>
-
     </section>
-
   </body>
-  <script 
-  type="text/JavaScript" 
-  language="JavaScript">
-
-function date_yyyymmmdd(date)
-{
-  var d = date.getDate();
-  var m = date.getMonth() + 1;
-  var y = date.getYear();
-
-  var mmm = 
-    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
-    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
-    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
-    (10==m)?'Oct':(11==m)?'Nov':'Dec';
-
-  return "" + y +
-    mmm + "-" +
-    (d<10?"0"+d:d) + "-";
-}
-
-function date_lastmodified()
-{
-  var lmd = document.lastModified;
-  var s   = "Unknown";
-  var d1;
-
-  if(0 != (d1=Date.parse(lmd)))
-  {
-    s = "" + date_yyyymmmdd(new Date(d1));
-  }
-
-  return s;
-}
-
-var d = document.createElement("div");
-d.appendChild(document.createTextNode("<span class=\"site-footer-credits\"> This page was updated on " + 
-  date_lastmodified() + "</span>"));
-document.body.appendChild(d);
-
-</script>
 </html>
