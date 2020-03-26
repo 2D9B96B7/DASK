@@ -1,3 +1,3 @@
-# Driving Data Repository
+# data directory
 
-Data from Driver 1 
+Each directory represnets individual driver.
