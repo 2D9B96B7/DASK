@@ -18,6 +18,6 @@ where n-th driver collected the data on m-th day, under light, moderate or heavy
 
 Each terminal directory contains one pair of driving data (file.csv) and a 128-bit binary key file (file.bin) derived from the data. The driving data pair are collected by using two GPS-equipped devices in a same vehicle. Each driving data file is `Comma Separated Value` formatted. 
 
-## Dataset Description
+## Contact
 
 At this point, we do not provide contact information for anonymization purpose.
