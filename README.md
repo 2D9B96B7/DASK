@@ -6,7 +6,7 @@ This repository provides driving data, that are recorded by utilizing various GP
 
 The following photo represents how driving data are collected in a vehicle.
 
-![Figure 1](/img/IMG_1662.JPG)
+![Figure 1: GPS-equipped devices placed in a vehicle.](/img/IMG_0024.JPG)
 
 ## Dataset Description
 
